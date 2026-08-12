@@ -23,7 +23,7 @@ then a homepage is pooped and there is a four comment for some user but a one wh
 <img width="1600" height="878" alt="6" src="https://github.com/user-attachments/assets/ea8cc622-18ef-4829-9634-1a392e996456" />
 
 so I write a path and boom!! marry is right there is a strange page here ,but if we just focus a littel we will see ID session and key 
-for admine site and a thing that is more important is a permanent value is true .
+for admin site and a thing that is more important is a permanent value is true .
 
 <img width="1600" height="861" alt="7" src="https://github.com/user-attachments/assets/a89a0842-db5c-4367-9f43-1982e06c4905" />
 
